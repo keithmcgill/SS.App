@@ -10,6 +10,14 @@ namespace SS.App
 	{
 		static void Main(string[] args)
 		{
+				
 		}
+
+		private void FixMethod()
+		{
+			//my fix
+		}
+
+
 	}
 }
