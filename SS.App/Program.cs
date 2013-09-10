@@ -13,18 +13,16 @@ namespace SS.App
 				
 		}
 
-<<<<<<< HEAD
+
 		private static void MyMethod()
 		{
 			//do stuff
 		}
-=======
 		private void FixMethod()
 		{
 			//my fix
 		}
 
 
->>>>>>> master
 	}
 }
