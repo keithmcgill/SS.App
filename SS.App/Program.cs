@@ -11,5 +11,10 @@ namespace SS.App
 		static void Main(string[] args)
 		{
 		}
+
+		private static void MyMethod()
+		{
+			//do stuff
+		}
 	}
 }
