@@ -10,11 +10,21 @@ namespace SS.App
 	{
 		static void Main(string[] args)
 		{
+				
 		}
 
+<<<<<<< HEAD
 		private static void MyMethod()
 		{
 			//do stuff
 		}
+=======
+		private void FixMethod()
+		{
+			//my fix
+		}
+
+
+>>>>>>> master
 	}
 }
